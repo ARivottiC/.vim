@@ -68,3 +68,6 @@
 [submodule "bundle/rivotti.vim"]
 	path = bundle/rivotti.vim
 	url = https://github.com/ARivottiC/rivotti.vim.git
+[submodule "bundle/sparkup"]
+	path = bundle/sparkup
+	url = https://github.com/rstacruz/sparkup
