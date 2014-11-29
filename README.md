@@ -23,4 +23,7 @@ cd bundle/YouCompleteMe
 cd ~/.vim/bundle/command-t/ruby/command-t
 ruby extconf.rb
 make
+
+# install livedown
+sudo npm install -g livedown
 ```
