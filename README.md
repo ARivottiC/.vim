@@ -26,4 +26,8 @@ make
 
 # install livedown
 sudo npm install -g livedown
+
+# install tern for vim
+cd ~/.vim/bundle/tern_for_vim
+npm install
 ```
