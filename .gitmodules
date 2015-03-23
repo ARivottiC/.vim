@@ -74,3 +74,9 @@
 [submodule "bundle/vim-livedown"]
 	path = bundle/vim-livedown
 	url = https://github.com/shime/vim-livedown
+[submodule "bundle/dbg.vim"]
+	path = bundle/dbg.vim
+	url = https://github.com/yuratomo/dbg.vim
+[submodule "bundle/vimproc.vim"]
+	path = bundle/vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim.git
