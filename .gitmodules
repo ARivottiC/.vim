@@ -18,19 +18,9 @@
 	url = https://github.com/vim-scripts/nginx.vim.git
     branch = master
     ignore = all
-[submodule "bundle/vim-less"]
-	path = bundle/vim-less
-	url = https://github.com/groenewege/vim-less.git
-    branch = master
-    ignore = all
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
-    branch = master
-    ignore = all
-[submodule "bundle/tern_for_vim"]
-	path = bundle/tern_for_vim
-	url = https://github.com/marijnh/tern_for_vim.git
     branch = master
     ignore = all
 [submodule "bundle/vim-css3-syntax"]
@@ -103,44 +93,14 @@
 	url = https://github.com/jelera/vim-javascript-syntax
     branch = master
     ignore = all
-[submodule "bundle/vdebug"]
-	path = bundle/vdebug
-	url = https://github.com/joonty/vdebug.git
-    branch = master
-    ignore = all
 [submodule "bundle/rivotti.vim"]
 	path = bundle/rivotti.vim
 	url = https://github.com/ARivottiC/rivotti.vim.git
     branch = master
     ignore = all
-[submodule "bundle/sparkup"]
-	path = bundle/sparkup
-	url = https://github.com/rstacruz/sparkup
-    branch = master
-    ignore = all
-[submodule "bundle/vim-livedown"]
-	path = bundle/vim-livedown
-	url = https://github.com/shime/vim-livedown
-    branch = master
-    ignore = all
-[submodule "bundle/dbg.vim"]
-	path = bundle/dbg.vim
-	url = https://github.com/yuratomo/dbg.vim
-    branch = master
-    ignore = all
-[submodule "bundle/vimproc.vim"]
-	path = bundle/vimproc.vim
-	url = https://github.com/Shougo/vimproc.vim.git
-    branch = master
-    ignore = all
 [submodule "bundle/vim-sleuth"]
 	path = bundle/vim-sleuth
 	url = https://github.com/tpope/vim-sleuth
-    branch = master
-    ignore = all
-[submodule "bundle/vim-coffee-script"]
-	path = bundle/vim-coffee-script
-	url = https://github.com/kchmck/vim-coffee-script.git
     branch = master
     ignore = all
 [submodule "bundle/python-syntax"]
