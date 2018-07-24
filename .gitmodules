@@ -146,3 +146,10 @@
 [submodule "bundle/python-syntax"]
 	path = bundle/python-syntax
 	url = https://github.com/hdima/python-syntax.git
+    branch = master
+    ignore = all
+[submodule "bundle/jedi-vim"]
+	path = bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+    branch = master
+    ignore = all
