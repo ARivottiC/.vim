@@ -113,3 +113,8 @@
 	url = git://github.com/ntpeters/vim-better-whitespace.git
     branch = master
     ignore = all
+[submodule "bundle/vim-lengthmatters"]
+	path = bundle/vim-lengthmatters
+	url = https://github.com/whatyouhide/vim-lengthmatters.git
+    branch = master
+    ignore = all
