@@ -4,7 +4,7 @@ My VimL setup
 
 ## Installation
 
-```sh
+```shell
 # clone
 git clone https://github.com/ARivottiC/.vim.git ~/.vim
 cd ~/.vim
@@ -34,12 +34,12 @@ npm install
 
 ## Adding new modules
 
-```
+```shell
 git submodule add https://github.com/davidhalter/jedi-vim.git bundle/jedi-vim
 ```
 
 ## Updating
 
-```sh
+```shell
 git submodule update --recursive --remote
 ```
