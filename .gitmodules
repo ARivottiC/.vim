@@ -118,3 +118,8 @@
 	url = https://github.com/whatyouhide/vim-lengthmatters.git
     branch = master
     ignore = all
+[submodule "bundle/Vim-Jinja2-Syntax"]
+	path = bundle/Vim-Jinja2-Syntax
+	url = https://github.com/Glench/Vim-Jinja2-Syntax.git
+    branch = master
+    ignore = all
