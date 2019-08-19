@@ -18,12 +18,6 @@
 	url = https://github.com/vim-scripts/nginx.vim.git
     branch = master
     ignore = all
-[submodule "bundle/YouCompleteMe"]
-    active = false
-	path = bundle/YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe.git
-    branch = master
-    ignore = all
 [submodule "bundle/vim-css3-syntax"]
 	path = bundle/vim-css3-syntax
 	url = https://github.com/hail2u/vim-css3-syntax.git
@@ -42,12 +36,6 @@
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter
-    branch = master
-    ignore = all
-[submodule "bundle/nerdtree.git"]
-    active = false
-	path = bundle/nerdtree.git
-	url = https://github.com/scrooloose/nerdtree.git
     branch = master
     ignore = all
 [submodule "bundle/powerline"]
@@ -75,21 +63,9 @@
 	url = https://github.com/Raimondi/delimitMate
     branch = master
     ignore = all
-[submodule "bundle/supertab"]
-    active = false
-	path = bundle/supertab
-	url = https://github.com/ervandew/supertab
-    branch = master
-    ignore = all
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = git://github.com/tpope/vim-surround.git
-    branch = master
-    ignore = all
-[submodule "bundle/command-t"]
-    active = false
-	path = bundle/command-t
-	url = https://github.com/wincent/command-t
     branch = master
     ignore = all
 [submodule "bundle/vim-javascript-syntax"]
@@ -100,12 +76,6 @@
 [submodule "bundle/rivotti.vim"]
 	path = bundle/rivotti.vim
 	url = https://github.com/ARivottiC/rivotti.vim.git
-    branch = master
-    ignore = all
-[submodule "bundle/vim-sleuth"]
-    active = false
-	path = bundle/vim-sleuth
-	url = https://github.com/tpope/vim-sleuth
     branch = master
     ignore = all
 [submodule "bundle/python-syntax"]
