@@ -19,6 +19,7 @@
     branch = master
     ignore = all
 [submodule "bundle/YouCompleteMe"]
+    active = false
 	path = bundle/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
     branch = master
@@ -44,6 +45,7 @@
     branch = master
     ignore = all
 [submodule "bundle/nerdtree.git"]
+    active = false
 	path = bundle/nerdtree.git
 	url = https://github.com/scrooloose/nerdtree.git
     branch = master
@@ -74,6 +76,7 @@
     branch = master
     ignore = all
 [submodule "bundle/supertab"]
+    active = false
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab
     branch = master
@@ -84,6 +87,7 @@
     branch = master
     ignore = all
 [submodule "bundle/command-t"]
+    active = false
 	path = bundle/command-t
 	url = https://github.com/wincent/command-t
     branch = master
@@ -99,6 +103,7 @@
     branch = master
     ignore = all
 [submodule "bundle/vim-sleuth"]
+    active = false
 	path = bundle/vim-sleuth
 	url = https://github.com/tpope/vim-sleuth
     branch = master
