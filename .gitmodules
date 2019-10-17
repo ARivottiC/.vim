@@ -116,3 +116,15 @@
     branch = master
     revision = master
     ignore = all
+[submodule "bundle/AutoComplPop"]
+	path = bundle/AutoComplPop
+    branch = master
+    revision = master
+	url = https://github.com/vim-scripts/AutoComplPop.git
+    ignore = all
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+    branch = master
+    revision = master
+	url = https://github.com/ervandew/supertab.git
+    ignore = all
